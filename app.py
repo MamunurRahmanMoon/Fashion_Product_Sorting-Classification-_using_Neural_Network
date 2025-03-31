@@ -1,11 +1,11 @@
 import streamlit as st
 import tensorflow as tf
-from tensorflow.keras.models import load_model  # type: ignore
+from tensorflow.keras.models import load_model
 from PIL import Image, ImageOps, ImageEnhance
 import numpy as np
 
 # Load the trained model
-MODEL_PATH = "fashion_mnist_model.h5"  # Update with your model's path
+MODEL_PATH = "fashion_mnist_model.h5"
 model = load_model(MODEL_PATH)
 
 # Define class labels
