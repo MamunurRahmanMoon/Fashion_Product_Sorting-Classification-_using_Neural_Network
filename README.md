@@ -2,10 +2,6 @@
 
 Welcome to the **Fashion Product Sorting** project! This project leverages deep learning and computer vision to classify fashion products into various categories using the **Fashion MNIST dataset**. The model is deployed as a web application using **Streamlit**, allowing users to upload images of fashion items and get predictions with confidence scores.
 
----
-
-## 📖 About
-This project is a deep learning-based solution for classifying fashion products into categories like T-shirts, trousers, dresses, and more. It uses a convolutional neural network (CNN) trained on the Fashion MNIST dataset and provides a user-friendly interface for predictions. The goal is to demonstrate the power of neural networks in image classification tasks while providing an interactive experience.
 
 ---
 
